@@ -5,6 +5,14 @@
     "home_page_url": "http://xzwsloser.github.io",
     "items": [
         {
+            "id": "http://xzwsloser.github.io/friends/",
+            "url": "http://xzwsloser.github.io/friends/",
+            "title": "friends",
+            "date_published": "2024-06-16T08:55:57.000Z",
+            "content_html": "<p>看到了吗</p>\n",
+            "tags": []
+        },
+        {
             "id": "http://xzwsloser.github.io/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/",
             "url": "http://xzwsloser.github.io/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/",
             "title": "搭建个人博客",

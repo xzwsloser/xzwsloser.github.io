@@ -5,9 +5,17 @@
         <link>http://xzwsloser.github.io</link>
         <description>欢迎来到我的个人空间,我会在这里分享编程学习笔记</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 16 Jun 2024 16:04:53 +0800</pubDate>
-        <lastBuildDate>Sun, 16 Jun 2024 16:04:53 +0800</lastBuildDate>
+        <pubDate>Sun, 16 Jun 2024 16:55:57 +0800</pubDate>
+        <lastBuildDate>Sun, 16 Jun 2024 16:55:57 +0800</lastBuildDate>
         <category>个人介绍</category>
+        <item>
+            <guid isPermalink="true">http://xzwsloser.github.io/friends/</guid>
+            <title>friends</title>
+            <link>http://xzwsloser.github.io/friends/</link>
+            <pubDate>Sun, 16 Jun 2024 16:55:57 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;看到了吗&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://xzwsloser.github.io/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
             <title>搭建个人博客</title>
