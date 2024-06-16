@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://xzwsloser.github.io</id>
+    <title> • Posts by &#34;个人介绍&#34; tag</title>
+    <link href="http://xzwsloser.github.io" />
+    <updated>2024-06-16T08:04:53.000Z</updated>
+    <category term="个人介绍" />
+    <entry>
+        <id>http://xzwsloser.github.io/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+        <title>readme</title>
+        <link rel="alternate" href="http://xzwsloser.github.io/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+        <content type="html">&lt;p&gt;大家好，这是我的个人博客，主要用于写自己的一些刷题笔记和学习笔记&lt;/p&gt;
+</content>
+        <category term="个人介绍" />
+        <updated>2024-06-16T08:04:53.000Z</updated>
+    </entry>
+</feed>
